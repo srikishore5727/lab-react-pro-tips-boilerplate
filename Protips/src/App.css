@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #292a29;
+}
+
+#container{
+    display: flex;
+}
+
+h1{
+    font-size: 32px;
+}
+
+h3{
+    margin: 20px;
+}
+.opt:hover{
+  color:orange;
+}
+
+a{
+    color: rgb(255,255,255,90%);
+    text-decoration: none;
+}
+
+.content{
+    text-align: center;
+    margin:30px;
+    font-size: 42px;
+}
